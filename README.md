@@ -76,7 +76,7 @@ This is a desktop application for managing student attendance, built with Python
 
 Made with ❤️ by **Lalith kumar raju Somalaraju**.
 
-Connect with me:
+Connect with mee:
 
 *   [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/lalith-kumar-raju)
 *   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lalith-kumar-raju-somalaraju/)
